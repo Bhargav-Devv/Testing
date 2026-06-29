@@ -20,3 +20,6 @@ Updated today, 480 issues, Python
 AI dev assistant = your domain
 
 the top 3 repo's are the choice of the domain with best picks
+
+#day 3 
+did nothing otherthan applying for CERN internship.

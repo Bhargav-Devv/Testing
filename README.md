@@ -26,3 +26,8 @@ did nothing otherthan applying for CERN internship.
 
 #day 4
 searching for active Ai and Ml repositories.
+
+
+
+Todays date is 22-07-2026 
+havent done any open source contribution past few weeks.
